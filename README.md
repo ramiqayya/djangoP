@@ -1,0 +1,2 @@
+# djangoP
+django practice repo
